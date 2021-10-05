@@ -1,0 +1,18 @@
+#TITULO {
+    font-size: 67px;
+    font-weight: 500px;
+    font-family: 'optima';
+}
+ #logo{
+   margin-left: 3px;
+ float: left;
+ text-align: left;
+ }
+#enca {
+  background: rgb(169, 214, 155);
+  margin-top: 9px;
+}
+#nosotros {
+  float: right;
+ margin-right: 9%;
+}
